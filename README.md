@@ -64,6 +64,8 @@ process sequential text using them in Next-Word Prediction, Text classification 
 The comparison focuses on metrics such as **Precision, Recall, F1-score,
 Entity-level F1**, and computational performance where available.
 
+## Project Structure
+
 ```text
 tsk2/
 │

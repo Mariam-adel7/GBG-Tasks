@@ -69,10 +69,10 @@ Entity-level F1**, and computational performance where available.
 ```text
 tsk2/
 │
-├── NER.csv
+├── GMB_dataset.txt
 ├── NER.ipynb
 ├── Next_WordPerd.ipynb
-├── nextword.csv
+├── next.txt
 ├── Text_classification.ipynb
 ├── text_class.csv
 └── Results and Comparison.docx
